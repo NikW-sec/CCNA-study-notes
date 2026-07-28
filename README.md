@@ -17,6 +17,7 @@ This my personal study notes for the CCNA 200-301, based on **Jeremy’s IT Lab 
 2. I watch the lecture myself, fully focused on understanding rather than note-taking.
 3. I refine Claude's draft using what I learned and include some general examples
 4. The content is reviewed for consistency with the transcript, then uploaded to Notion via Claude's Notion integration.
+   
 **own labs** : a few labs on the core topics are created amd configured by myself to get deeply learn the commands and concpets.
 
 ## Disclaimer
