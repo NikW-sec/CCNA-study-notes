@@ -20,6 +20,18 @@ This my personal study notes for the CCNA 200-301, based on **Jeremy’s IT Lab 
    
 **own labs** : a few labs on the core topics are created and configured by myself to fully understand the commands and concepts.
 
+## What's in this repo
+
+The full day-by-day notes live on Notion (link above). This repo holds the condensed, offline-readable version organized by exam domain, plus the labs.
+
+| Path | Contents |
+|---|---|
+| [notes/](notes/) | Condensed notes for all six 200-301 v1.1 exam domains, plus a commands cheat sheet and a subnetting reference |
+| [labs/](labs/) | Self-contained lab topologies with full configs, verification steps, and deliberate faults to troubleshoot |
+| `Claude prompt` | The prompt used to turn lecture transcripts into notes in my style |
+
+Start at [notes/README.md](notes/README.md) for the index and a suggested review order.
+
 ## Disclaimer
 
 These are personal study notes, not official Cisco material or a substitute for the full course. They may contain simplifications, errors. I personally recommend using my notes as a way to quickly review topics, not as the primary source of your study
