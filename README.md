@@ -3,8 +3,7 @@
 This my personal study notes for the CCNA 200-301, based on **Jeremy’s IT Lab playlist**. They cover the entire course and were created through a combination of my own work and AI-assisted refinement (Claude).
 
 
-**Full notes on Notion:** [Access here](https://ccna-200-301-study-note.notion.site/38790b96dd068046a260c462c612662c?v=cfb90b96dd068301b21f88ea134609db&source=copy_link)
-
+**Full notes on Notion:** [Access here](https://app.notion.com/p/8c46b34b27c0831aa9ca81a084ad4ea4?v=8306b34b27c082db90370828aeb33876&source=copy_link)
 **Source course:** [Jeremy's IT Lab — CCNA 200-301 Playlist](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 
